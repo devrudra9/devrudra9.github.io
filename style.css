@@ -617,7 +617,6 @@ section p {
     transition: 0.4s;
     width: 240px;
     height: 350px;
-    border: 2px solid #2c2121;
     border-top-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
